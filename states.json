@@ -1,0 +1,24 @@
+{
+  "records": [
+    { "name": "Uttar Pradesh", "code": "UP", "population": 224979000, "temperature": 22 },
+    { "name": "Bihar", "code": "BR", "population": 124799926, "temperature": 30 },
+    { "name": "Madhya Pradesh", "code": "MP", "population": 85358965, "temperature": 44 },
+    { "name": "West Bengal", "code": "WB", "population": 99609303, "temperature": 42 },
+    {
+      "name": "Himachal Pradesh",
+      "code": "HP",
+      "population": 7451955,
+      "temperature": 43
+    },
+    { "name": "Punjab", "code": "PB", "population": 30141373, "temperature": 28 },
+    { "name": "Haryana", "code": "HR", "population": 28204692, "temperature": 15 },
+    { "name": "Rajasthan", "code": "RJ", "population": 81032689, "temperature": 17 },
+    { "name": "Maharashtra", "code": "MH", "population": 123144223, "temperature": 48 },
+    { "name": "Andhra Pradesh", "code": "AP", "population": 53903393, "temperature": 19 },
+    { "name": "Gujarat", "code": "GJ", "population": 63872399, "temperature": 33 },
+    { "name": "Delhi", "code": "DL", "population": 19814000, "temperature": 37 },
+    { "name": "Jharkhand", "code": "JH", "population": 38593948, "temperature": 48 },
+    { "name": "Tamil Nadu", "code": "TN", "population": 77841267, "temperature": 49 },
+    { "name": "Uttarakhand", "code": "UK", "population": 11141048, "temperature": 23 }
+  ]
+}
